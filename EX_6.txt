@@ -1,0 +1,13 @@
+6. Defina os termos “Desenvolvimento Contínuo”, “Teste Contínuo”, “Implantação Contínua”,“Teste Contínuo”, “Monitoramento Contínuo”, “Integração Contínua”, “CI/CD”.
+
+Desenvolvimento continuo: O desenvolvimento contínuo é uma forma de aprendizagem que visa melhorar as habilidades e sanar as dificuldades dos colaboradores e equipes. O desenvolvimento contínuo é fundamental para quem deseja se manter relevante no mercado em que atua.
+
+Teste Continuo: É o processo de execução de testes automatizados como parte de um pipeline de entrega de software.
+
+Implantação Contínua: A implantação contínua usa automação ao máximo para entregar funcionalidades aos usuários com rapidez, sem comprometer a qualidade. Um aspecto fundamental para esta prática DevOps é a obtenção de feedback frequente e rápido.
+
+Monitoramento Contínuo: O monitoramento contínuo trata de um conjunto de dispositivos que promovem o acesso a dados em tempo real. Isso permite a verificação das métricas pré-determinadas para cada equipamento, ambiente, ou item que precisa ser observado.
+
+Integração Contínua: A integração contínua é uma prática de desenvolvimento de software de DevOps em que os desenvolvedores, com frequência, juntam suas alterações de código em um repositório central.
+
+CI/CD: CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são a integração, entrega e implantação contínuas.
