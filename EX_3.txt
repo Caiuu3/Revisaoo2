@@ -1,0 +1,4 @@
+3. O que é desenvolvimento global e distribuído de software?
+
+É uma forma de desenvolvimento de software que ocorre quando a distância física entre os envolvidos no projeto envolve mais de uma país
+
