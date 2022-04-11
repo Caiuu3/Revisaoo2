@@ -1,3 +1,6 @@
-7. Qual é o foco principal do DevOps?
+7. Faça um estudo das ferramentas Github/Gitlab. Quais vantagens tais ferramentas oferecem naimplementação da abordagem DevOps?
+Uma das principais funcionalidades que difere uma plataforma da outra, é o foco que o Gitlab vem dando à integração com ferramentas de DevOps. O Gitlab proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD, além de métricas para acompanhamento de qualidade de código, performance e teste de usabilidade.
 
-O DevOps representa a união, a colaboração, a interação e a integração de múltiplas equipes com foco no desenvolvimento mais eficiente e na entrega do software com mais qualidade, seguindo a filosofia de identificar tarefas que podem ser automatizadas para aprimorar e simplificar processos.
+E como tudo isso se relaciona com o Git? Ambas fazem o controle de versão dos projetos hospedados utilizando o Git. Desse modo, quando você utiliza o Git no seu projeto, você pode acompanhar o versionamento do seu repositório em uma dessas plataformas.
+
+No geral, as duas plataformas são muito boas para hospedagem de código, e cabe a você decidir qual delas faz mais sentido utilizar no seu projeto, uma vez que as duas utilizam Git como controle de versão.

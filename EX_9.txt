@@ -1,0 +1,23 @@
+9. Cite dez fatores que podem impactar a performance de um projeto dedesenvolvimento, na visão DevOps?
+
+• Múltiplos níveis de autorização para aprovação de uma nova funcionalidade;
+• Lotes de trabalho enormes (Ciclo de vida clássico de desenvolvimento) O que
+o time de teste faz enquanto espera o lote ficar pronto?
+• Testes manuais;
+• Comunicação não estrutura e sem registro em sistema de gerenciamento de
+demandas e tickets  Como o programar sabe qual é prioridade atual do
+projeto?
+• Falta de feedback dos clientes. O que acontece se o “cliente”, “stakeholder” fica
+meses sem verificar os resultados do produto que está sendo desenvolvido?
+Geralmente os requisitos mudam... Alias, os requisitos mudam a todo momento;• Métodos ágeis  Foco em lotes menores, feedback contínuo e semanal? Por que será que é mais eficiente? (Scrum, Kanban, ...)
+Outros fatores que impactam
+• Ambientes de desenvolvimento que não foram disponibilizados e o
+desenvolvedor tem que ficar esperando;
+• Retrabalho: Dois desenvolvedores desenvolvem um conjunto
+particular de classes para resolver problemas comuns, ao invés de se
+concentrarem nas novas funcionalidades do projeto;
+• Dificuldade de testar novas ideias, pois só há um ambiente de
+desenvolvimento disponível;
+• Dificuldade do feedback do usuário chegar ao desenvolvedor
+rapidamente.
+•Dificuldade de testar novas funcionalidades, pois a documentação não está ideal
