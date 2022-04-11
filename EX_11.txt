@@ -1,0 +1,11 @@
+11. Como seria o DevOps ideal em uma organização de desenvolvimento desoftware?
+
+• Tempos de espera medidos em minutos ao invés de dias e meses;
+• Ambientes de desenvolvimento self-service (qualquer um pode usar e criar um novo em minutos);
+• Pequenas mudanças no produto e entregas rápidas;
+• Bugs e defeitos chegam rapidamente aos encarregados de corrigí-los;
+• Feedback contínuo a todos os membros da equipe;
+• Biblioteca padrão de objetos, inovações compartilhadas com todos;
+• Testes automatizados e paralelizados;
+• Facilidade de publicação de novas funcionalidades já testadas (de forma
+automatizada) no ambiente de produção.

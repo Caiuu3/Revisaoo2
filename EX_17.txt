@@ -1,0 +1,5 @@
+17. Que outras ferramentas poderiam ser utilizadas para visualizar o trabalho deuma equipe dedesenvolvedores e identificar os gargalos?
+
+Uma das ferramentas mais utilizadas é o Jira, ele possibilita a escolha de metodologias ágeis
+como o SCRUM e Kanban para cada caso. outra ferramenta conhecida é o Trello, Principais
+Recursos: Quadros Kanban, Registros de atividades, entre outros. 

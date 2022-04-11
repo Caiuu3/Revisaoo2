@@ -1,0 +1,17 @@
+33. Escreva uma descrição em pelo 30 linhas de como funciona o Scrum.
+
+Contextualizando seu surgimento, o Scrum apareceu pela primeira vez em 1986 no artigo “The New New Product Development Game” produzido por Hirotaka Takeuchi e Ikujiro Nonaka, e publicado pela The Harvard Business Review. O nome, que traduzido para português fica algo como “O Novo Jogo de Desenvolvimento de Novos Produtos”, foi uma sacada proposital dos autores para apresentar uma nova forma de gerenciamento de produto inspirada na estratégia do jogo Rugby.
+
+Tempos depois, e não se limitando a esse surgimento, foi publicado em 1995 o livro “Scrum Development Process“, pelos autores Ken Schwaber e Jeff Sutherland, pioneiros na aplicação do Scrum com as diretrizes da época. Por volta desse período, houve a percepção de que o Scrum já era mais eficaz que o modelo conhecido como Waterfall (“Cascata”) de desenvolvimento de produto, sobretudo por sua adaptabilidade.
+
+Com isso, foi apenas com essa publicação que o Scrum se revelou como o conhecemos hoje, no que podemos pensar ter sido uma mistura da incorporação da teoria do primeiro artigo publicado, com a experiência real aplicada pelos autores do livro de 1995.
+
+Como funciona e como aplicar
+Uma das principais características do Scrum é a utilização de ciclos de desenvolvimento sucessivos, que se repetem a cada determinado período de tempo, os quais chamamos de Sprints (ou “iterações”, em português). Cada sprint pode ter de 1 a n semanas de desenvolvimento, sendo o mais comum o uso de sprints de 2 semanas.
+
+Pessoas no Scrum
+O Scrum determina algumas funções que compõem o time Scrum, são elas:
+
+Scrum Master: Em linhas gerais é a figura do time que deve garantir a aplicação do framework, ou seja, precisa ser um bom conhecedor do Scrum. Ele faz isso guiando as cerimônias e verificando o cumprimento das regras, além de se responsabilizar por superar os impedimentos apontados pela equipe.
+Product Owner: É aqui que entra uma pessoa representando o time de Produto, e eu diria que uma das figuras mais fundamentais nesse jogo. É responsabilidade do PO cuidar do product backlog, ou seja, lista de tarefas a serem desenvolvidas, refinando-o para que esteja priorizado e agregue o máximo de valor a cada entrega. Também faz a ponte com outras equipes e interessados no produto, o qual chamamos stakeholders.
+Desenvolvedores: Aqui entram todos os desenvolvedores de software, que podem ter diferentes especialidades. Podemos ter Dev Front-end, Back-end, Fullstack, QA, DevOps, Tech Leads, etc. Não há um número determinado e isso varia dependendo da empresa e do produto.

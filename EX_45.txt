@@ -1,0 +1,3 @@
+45. Como eu poderia resolver conflitos ocorridos utilizando-se o workflow básico do git?
+
+você deve resolver o conflito localmente na linha de comando. 

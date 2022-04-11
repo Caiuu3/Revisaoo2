@@ -1,0 +1,5 @@
+18. Por que temos que identificar os gargalos e tentar suprimí-los na otimização de um processo?
+
+	Um gargalo também pode representar um risco econômico elevado, porque ele geralmente
+ocorre à plena capacidade, potencialmente aumentando o desgaste de um maquinário por
+exemplo, e sem redundância. 

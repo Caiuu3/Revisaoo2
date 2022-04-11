@@ -1,0 +1,7 @@
+36. Qual a importância de estabelecer uma “cultura de confiança” ao invésde uma política de “caça aos culpados” no trabalho com de sistemascomplexos?
+
+	Como as falhas são inerentes e inevitáveis em sistemas complexos, o
+desenvolvimento de sistema de trabalho mais seguros possibilita a
+execução de tarefas sem medo, com a confiabilidade de que os erros
+ocorridos serão detectados rapidamente, antes de eventuais
+desastres;

@@ -1,0 +1,13 @@
+12. Quais as três formas de se enxergar o desenvolvimento de software na visãoDevpOps?
+
+	Primeiro modo Fluxo de tarefas :
+Otimização do fluxo de tarefas entre
+a solicitação no “backlog” e o
+produto final testado para o cliente;
+(figura 1)
+	Segundo modo Fluxo contínuo de
+feedback para prevenir que
+problemas ocorram novamente;
+(figura 2);
+	Terceiro modo Melhoria continua,
+aprendizado e experimentação.

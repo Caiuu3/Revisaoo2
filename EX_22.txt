@@ -1,0 +1,12 @@
+22. Faça uma pesquisa e descubra 10 dificuldades e desperdícios comuns no desenvolvimento desoftware, que aumentam o tempo de espera.
+
+os problemas podem ser dos mais variados possiveis, vou citar os mais comuns: -Queda de
+energia na empresa, pode gerar prejuízoz financeiros, e poderá atrasar o desenvolvimento. -
+Defeitos: problemas relacionados aos ciclos repetidos de reviw, podem ser falta de qualidade
+na solução desenvolvida, causando o retrabalho. -Trabalho manual que poderia ser
+automatizado, é desperdicio de tempo. -Dificuldade em utilizar uma nova tecnologia imposta
+pela empresa de software, uma nova IDE por exemplo -Mudança de requisitos -Colaboradores
+trocarem tarefas frequentemente, podera impactar negativamente no projeto -Aguardar
+terceiro para concluir um processo do desenvolvimento -Um trabalho inacabado aumenta o
+tempo de espera -Falta de equipamento/ferramenta adequada -Desentendimento da equipe,
+ou falta comunicação 

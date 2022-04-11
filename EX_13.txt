@@ -1,0 +1,11 @@
+13. Indique 10 desperdícios de recursos que podem ocorrer no processo dedesenvolvimento de software.
+
+1. Processamento impróprio
+2. Produção excessiva
+3. Estoque
+4. Transporte
+5. Movimentos desnecessários
+6. Defeitos 
+7. retrabalho
+8. Espera
+7. Intelectual (Pessoas)

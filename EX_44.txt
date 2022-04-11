@@ -1,0 +1,3 @@
+44. Descreva o git “workflow” básico.
+	
+O Gitflow é um modelo alternativo de ramificação do Git que consiste no uso de ramificações de recursos e várias ramificações primárias. Ele foi publicado pela primeira vez e popularizado por Vincent Driessen no nvie.

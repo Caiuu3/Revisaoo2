@@ -1,0 +1,7 @@
+28. Quais são as dificuldades existentes no trabalho com sistemas complexos?
+	Desafiadores, alto grau de interconexão, alto grau de acoplagem de alguns
+componentes, o comportamento de macro de todo sistema não pode ser meramente
+explicado pelo comportamento dos componentes, muitas vezes fazer a mesma coisa
+duas vezes pode te resultados diferentes, (ex: testes e experimentos da psicologia),
+listas de verificações podem não ser suficientes na prevenção de tragédias em
+sistemas complexos.

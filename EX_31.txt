@@ -1,0 +1,9 @@
+31. O que é a otimização de qualidade para o próximo no fluxo de trabalho?
+	
+Pelos princípios da manufatura enxuta, o cliente mais importante é o próximo a
+lidar com os artefatos na fila de valor, no caso de desenvolvimento, o próximo a lidar
+com os artefatos é o time de operação (clientes internos), facilitar o trabalho do time
+de operações ao lidar com as entregas da equipe de desenvolvimento otimiza fluxo de
+trabalho, a empatia aprimorada com estes clientes internos facilita o feedback rápido
+das necessidades dos clientes externos e outros aprimoramentos da linha de
+montagem de desenvolvimento e implantação de software.

@@ -1,0 +1,6 @@
+30. O que é aprimorar a qualidade na origem na visão do desenvolvimento de software?
+
+	Revisão em pares da mudança proposta, automação de testes, ambiente de
+desenvolvimento e testes que podem rodar nas maquinas dos próprios
+desenvolvedores, compartilhamento de responsabilidades entre os desenvolvedores,
+feedback aprimorado gera aprendizado.
