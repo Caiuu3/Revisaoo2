@@ -1,3 +1,6 @@
 37. Como podemos transformar “aprendizado local” em “aprendizadoorganizacional”?
 
 	Elaborando reunioes com os funcionarios para que  os erros cometidos durante o desenvolvimento do softwaree nao ocorram novamente
+
+revisão Thiago
+

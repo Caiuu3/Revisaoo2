@@ -4,3 +4,5 @@ de resolver; lidar com problemas antes deles virarem catástrofes; criar conheci
 organizacional sobre os incidentes, para que os mesmos possam ser resolvidos ou
 evitados mais facilmente no futuro; quando falhas ocorrem, use elas como
 oportunidade de aprendizado, não como uma oportunidade de punição ou acusação. 
+
+revisão Thiago

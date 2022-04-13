@@ -5,3 +5,5 @@ explicado pelo comportamento dos componentes, muitas vezes fazer a mesma coisa
 duas vezes pode te resultados diferentes, (ex: testes e experimentos da psicologia),
 listas de verificações podem não ser suficientes na prevenção de tragédias em
 sistemas complexos.
+
+revisão Thiago

@@ -1,3 +1,5 @@
 35. Faça uma pesquisa e descreva o modelo organizacional Westrum
 
 	Segundo uma pesquisa da DevOps Research and Assessment (DORA), uma cultura organizacional de alta confiança e que enfatiza o fluxo de informações prediz o desempenho da entrega de softwares e o desempenho organizacional no setor de tecnologia. A ideia de que uma boa cultura que otimiza o fluxo de informações é preditiva de bons resultados não é uma ideia nova, ela é baseada em uma pesquisa do sociólogo Dr. Ron Westrum. A pesquisa de Westrum incluiu fatores humanos na segurança de sistemas, particularmente no contexto de acidentes em setores tecnológicos, como aviação e saúde.
+
+revisão Thiago

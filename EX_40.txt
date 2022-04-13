@@ -4,3 +4,5 @@ Fazer experimentos controlados para testar como os existentes reagiriam
 em caso de um evento atípico. Ex: Cortar o prazo pela metade para avaliar
 como a linha de montagem reagiria, se a produtidade aumentaria se os
 erros aumentariam;
+
+revisão Thiago

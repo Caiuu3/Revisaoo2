@@ -4,3 +4,5 @@
 desenvolvimento e testes que podem rodar nas maquinas dos próprios
 desenvolvedores, compartilhamento de responsabilidades entre os desenvolvedores,
 feedback aprimorado gera aprendizado.
+
+revisão Thiago

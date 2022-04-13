@@ -5,3 +5,5 @@ problema do gargalo, pois poderá causar problema no futuro, por exemplo, em uma
 produção onde é realizado 5 etapas para produzir um produto x, considerando que o gargalo é
 a etapa 3, não iria resolver melhorar a taxa de produção da etapa 1 e 2, pois ainda mais itens
 ficarão empilhados na frente da etapa 3, e as demais poderiam ficar ociosas. 
+
+revisão Thiago

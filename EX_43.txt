@@ -7,3 +7,5 @@ Autonomia. A conexão com a rede só é necessária para trocar revisões com ou
 Confiabilidade. No sistema centralizado, uma pane no servidor interrompe todo o desenvolvimento. Já no sistema distribuído, além de a equipe poder continuar seu trabalho, os repositórios dos desenvolvedores funcionam como cópias de backup de todo o projeto.
 
 Redução de custos com servidor. A carga de processamento fica distribuída nas próprias máquinas dos desenvolvedores. O repositório "central", quando existe, tem o papel do repositório "oficial" e não como processador central das requisições.
+
+revisão Thiago

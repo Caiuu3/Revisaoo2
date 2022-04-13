@@ -1,2 +1,4 @@
 2. Um tipo de desenvolvimento com pré-requisito de que é necessário permitir a colaboração entre as áreas de negócio, as equipes de desenvolvimento, Qualidade, infraestrutura, fornecedores, etc...
 
+
+revisão Thiago

@@ -9,3 +9,5 @@
 • Testes automatizados e paralelizados;
 • Facilidade de publicação de novas funcionalidades já testadas (de forma
 automatizada) no ambiente de produção.
+
+revisão Thiago

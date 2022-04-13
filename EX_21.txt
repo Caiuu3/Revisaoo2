@@ -4,3 +4,5 @@ desenvolvimento, que pode impactar no tempo de espera do cliente. considerando u
 de pequeno e médio porte, poderá utilizar o que chamamos de metodologias Ágeis para
 diminuir o tempo de espera, focando em entregas menores, e obtendo assim o retorno do
 cliente s.
+
+revisão Thiago

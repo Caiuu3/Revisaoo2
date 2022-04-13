@@ -3,3 +3,5 @@
 montagem de software” (fluxo de valor), toda nossa organização, feedbacks,
 feedforwards, tantas informações podem ser coletadas de forma automatizada,
 evitando típicos overhead associados a tarefas manuais.
+
+revisão Thiago

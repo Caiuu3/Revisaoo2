@@ -1,3 +1,5 @@
 14. Indique 5 atividades que podem ser automatizadas no processo dedesenvolvimento de software.
 
 Implantação, Testes, Implementação, Feedback, análise de requesitos 
+
+revisão Thiago

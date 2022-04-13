@@ -1,3 +1,5 @@
 7. Qual é o foco principal do DevOps?
 
 O DevOps representa a união, a colaboração, a interação e a integração de múltiplas equipes com foco no desenvolvimento mais eficiente e na entrega do software com mais qualidade, seguindo a filosofia de identificar tarefas que podem ser automatizadas para aprimorar e simplificar processos.
+
+revisão Thiago

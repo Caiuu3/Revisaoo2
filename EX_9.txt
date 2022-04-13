@@ -21,3 +21,5 @@ desenvolvimento disponível;
 • Dificuldade do feedback do usuário chegar ao desenvolvedor
 rapidamente.
 •Dificuldade de testar novas funcionalidades, pois a documentação não está ideal
+
+revisão Thiago

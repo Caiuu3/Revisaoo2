@@ -10,3 +10,5 @@ trocarem tarefas frequentemente, podera impactar negativamente no projeto -Aguar
 terceiro para concluir um processo do desenvolvimento -Um trabalho inacabado aumenta o
 tempo de espera -Falta de equipamento/ferramenta adequada -Desentendimento da equipe,
 ou falta comunicação 
+
+revisão Thiago

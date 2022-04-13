@@ -3,3 +3,5 @@
 Kanban é um sistema visual de gestão de trabalho, que busca conduzir cada tarefa por um
 fluxo predefinido de trabalho. O mesmo se baseia em técnicas que controlam e fazem a gestão
 dos fluxos de produção para as empresas.
+
+revisão Thiago

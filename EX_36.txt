@@ -5,3 +5,5 @@ desenvolvimento de sistema de trabalho mais seguros possibilita a
 execução de tarefas sem medo, com a confiabilidade de que os erros
 ocorridos serão detectados rapidamente, antes de eventuais
 desastres;
+
+revisão Thiago

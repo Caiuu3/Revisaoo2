@@ -4,3 +4,6 @@
 gerado; a perseguição aos problemas tem o objetivo de que os mesmos não tenham a
 chance de gerar consequências piores; o custo de uma solução de um problema cresce
 exponencialmente com o tempo.
+
+
+revisão Thiago
