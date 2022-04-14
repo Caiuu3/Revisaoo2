@@ -23,3 +23,4 @@ rapidamente.
 •Dificuldade de testar novas funcionalidades, pois a documentação não está ideal
 
 revisão Thiago
+Revisao CAIO OK

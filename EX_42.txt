@@ -3,3 +3,4 @@
 São vários repositórios autônomos e independentes, um para cada desenvolvedor. Cada repositório possui uma área de trabalho acoplada e as operações commit e update acontecem localmente entre os dois.
 
 revisão Thiago
+Revisao CAIO OK

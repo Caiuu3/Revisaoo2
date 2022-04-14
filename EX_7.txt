@@ -6,3 +6,4 @@ E como tudo isso se relaciona com o Git? Ambas fazem o controle de versão dos p
 No geral, as duas plataformas são muito boas para hospedagem de código, e cabe a você decidir qual delas faz mais sentido utilizar no seu projeto, uma vez que as duas utilizam Git como controle de versão.
 
 revisão Thiago
+Revisao CAIO OK

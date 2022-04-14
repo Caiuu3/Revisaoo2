@@ -14,3 +14,4 @@ Integração Contínua: A integração contínua é uma prática de desenvolvime
 CI/CD: CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são a integração, entrega e implantação contínuas.
 
 revisão Thiago
+Revisao CAIO OK

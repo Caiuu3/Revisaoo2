@@ -9,3 +9,4 @@ Confiabilidade. No sistema centralizado, uma pane no servidor interrompe todo o 
 Redução de custos com servidor. A carga de processamento fica distribuída nas próprias máquinas dos desenvolvedores. O repositório "central", quando existe, tem o papel do repositório "oficial" e não como processador central das requisições.
 
 revisão Thiago
+Revisao CAIO OK

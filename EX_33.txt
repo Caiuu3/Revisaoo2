@@ -17,3 +17,4 @@ Product Owner: É aqui que entra uma pessoa representando o time de Produto, e e
 Desenvolvedores: Aqui entram todos os desenvolvedores de software, que podem ter diferentes especialidades. Podemos ter Dev Front-end, Back-end, Fullstack, QA, DevOps, Tech Leads, etc. Não há um número determinado e isso varia dependendo da empresa e do produto.
 
 revisão Thiago
+Revisao CAIO OK
